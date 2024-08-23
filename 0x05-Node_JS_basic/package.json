@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A simple project for learning the basics of Node.js for server-side apps.",
     "main": "index.js",
-    "author": "Jedidia Nkunzumwami <didiernkunzumwami@gmail.com>",
+    "author": "Jedidia Nkunzumwami <jedinkuze123@gmail.com>",
     "private": true,
     "license": "MIT",
     "scripts": {
